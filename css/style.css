@@ -8,3 +8,7 @@
 .button-color{
     background-color: mistyrose;
 }
+.subscribe-button {
+    background-color: white;
+    color: rgb(6, 6, 49);
+}
